@@ -1,0 +1,99 @@
+video  {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+  }
+  
+  .Video-container {
+     /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 0 0 0 1000px  rgba(0, 0, 0, 0,2);
+    object-fit: contain;
+  }
+  
+  .Login-Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .Login-Form h1 {
+    margin-top: 50px;
+    font-size: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .Login-Form p {
+    font-size: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #fff;
+  }
+  .Login-Form h5{
+    font-size: 30px;
+    margin-top: 40px;
+    text-align: center;
+    color: #fff;
+  }
+  .Login-Form label {
+    margin-right: 40px;
+    font-size: 25px;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+  
+  .Login-Form input {
+    width: 250px;
+    padding: 8px;
+    margin-bottom: 15px;
+    justify-content: center;
+    align-items: center;  
+  }
+  
+  .Login-Form button {
+    padding: 10px 20px;
+    background-color:#252e48;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .Login-Form button:hover {
+    background-color: #252e48;
+  }
+  
+  .Login-logo {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 50px;
+  }
+  
+  .Login-logo :hover {
+    color: #646cff;
+  }
+  .Login-logo i {
+    margin-left: 8%;
+  }
+  
+  .Login-rights {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+  }
