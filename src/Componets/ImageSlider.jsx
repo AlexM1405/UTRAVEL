@@ -72,7 +72,7 @@ window.addEventListener("load", initSlider);
        <img src="images/img-33.jpg" className="image-item"  />
        </Link>
        <Link to="https://www.hardrockhotels.com/all-inclusive-resorts.aspx" >
-       <img src="images/img-32.jpg" className="image-item"/>
+       <img src="images/Img-32.jpg" className="image-item"/>
        </Link>
        <Link to="https://www.hilton.com/en/brands/hilton-hotels/">
        <img src="images/img-34.jpg" className="image-item"/>
