@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 import Navbar from './Componets/NavBar'
 import { Routes, Route, } from "react-router-dom";
-import Home from './Componets/Pages/HOME'
+import Home from './Componets/Pages/Home'
 import Services from './Componets/Pages/Services';
 import Customers from './Componets/Pages/Customers';
 import  Products from './Componets/Pages/Products'

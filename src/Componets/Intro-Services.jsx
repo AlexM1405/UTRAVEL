@@ -8,7 +8,7 @@ function IntroServices() {
       <div className="IntroUTRAVELLogo-Container">
         <div className="VideoBackground">
           <video autoPlay loop muted className="VideoElement">
-            <source src="/public/videos/video-4.mp4" type="video/mp4" />
+            <source src="videos/video-4.mp4" type="video/mp4" />
           </video>
         </div>
 

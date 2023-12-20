@@ -52,7 +52,7 @@ function IntroCostumers() {
           </div>
           <div className="Costumer-video-container">
               <video autoPlay loop muted className="VideoElement">
-                 <source src="/public/videos/pexels-taryn-elliott-6073575 (2160p).mp4" type="video/mp4" />
+                 <source src="videos/pexels-taryn-elliott-6073575 (2160p).mp4" type="video/mp4" />
               </video>
           </div>
       </div>

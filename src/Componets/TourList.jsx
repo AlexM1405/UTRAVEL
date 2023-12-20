@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import React from "react";
 import "./TourList.css"
 import CardItem from "./CardItem";
-import tours from "../data/tours";
+import tours from "../DATA/Tours.json";
 import { Button } from "./Button";
 
 function TourList() {

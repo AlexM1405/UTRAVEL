@@ -66,31 +66,31 @@ return (
     <div className="slider-wrapper">
       <div className="image-list" ref={imageListRef}>
       <Link to="https://www.etihad.com/en/">
-      <img src="/public/images/ImG-57.jpg" className="image-item"  />
+      <img src="images/ImG-57.jpg" className="image-item"  />
       </Link>
       <Link to="https://www.emirates.com/ar/english/" >
-      <img src="/public/images/Img-45.jpg" className="image-item"/>
+      <img src="images/Img-45.jpg" className="image-item"/>
       </Link>
       <Link to="https://www.united.com/en/gb">
-      <img src="/public/images/Img-47.jpg" className="image-item"/>
+      <img src="images/Img-47.jpg" className="image-item"/>
       </Link>
       <Link to="https://www.airnewzealand.com/">
-      <img src="/public/images/Img-59.jpg" className="image-item"/>
+      <img src="images/Img-59.jpg" className="image-item"/>
       </Link>
       <Link  to="https://www.turkishairlines.com/">
-      <img src="/public/images/Img-56.jpg" className="image-item"/>
+      <img src="images/Img-56.jpg" className="image-item"/>
       </Link>
       <Link to="https://www.qatarairways.com/en-us/homepage.html">
-      <img src="/public/images/Img-55.jpg" className="image-item"/>
+      <img src="images/Img-55.jpg" className="image-item"/>
       </Link>
       <Link to="https://www.copaair.com/es-us/">
-      <img src="/public/images/Img-53.jpg" className="image-item"/>
+      <img src="images/Img-53.jpg" className="image-item"/>
       </Link>
       <Link to="https://www.aa.com/homePage.do">
-      <img src="/public/images/Img-44.jpg" className="image-item"/>
+      <img src="images/Img-44.jpg" className="image-item"/>
       </Link>
       <Link to="https://www.aireuropa.com/us/es/home">
-      <img src="/public/images/Img-52.jpg" className="image-item"/>
+      <img src="images/Img-52.jpg" className="image-item"/>
       </Link>
       </div>
       <div className="slider-scrollbar" ref={sliderScrollbarRef}>

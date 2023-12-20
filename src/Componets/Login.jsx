@@ -44,7 +44,7 @@ function Login() {
   return (
     <section>
       <div className='Video-Container'>
-        <video src="/public/videos/Video sin título (1).mp4" autoPlay loop muted/>
+        <video src="videos/Video sin título (1).mp4" autoPlay loop muted/>
       </div>
 
       <div className='Login-Form'>

@@ -69,31 +69,31 @@ window.addEventListener("load", initSlider);
      <div className="slider-wrapper">
        <div className="image-list" ref={imageListRef}>
        <Link to="https://www.palaceresorts.com/">
-       <img src="/public/images/ImG-33.jpg" className="image-item"  />
+       <img src="images/ImG-33.jpg" className="image-item"  />
        </Link>
        <Link to="https://www.hardrockhotels.com/all-inclusive-resorts.aspx" >
-       <img src="/public/images/Img-32.jpg" className="image-item"/>
+       <img src="images/Img-32.jpg" className="image-item"/>
        </Link>
        <Link to="https://www.hilton.com/en/brands/hilton-hotels/">
-       <img src="/public/images/Img-34.jpg" className="image-item"/>
+       <img src="images/Img-34.jpg" className="image-item"/>
        </Link>
        <Link to="https://www.chevalblanc.com/en/">
-       <img src="/public/images/Img-35.jpg" className="image-item"/>
+       <img src="images/Img-35.jpg" className="image-item"/>
        </Link>
        <Link to="https://www.fourseasons.com/">
-       <img src="/public/images/Img-36.jpg" className="image-item"/>
+       <img src="images/Img-36.jpg" className="image-item"/>
        </Link>
        <Link to="https://www.bulgarihotels.com/">
-       <img src="/public/images/Img-37.jpg" className="image-item"/>
+       <img src="images/Img-37.jpg" className="image-item"/>
        </Link>
        <Link  to="https://www.comohotels.com/">
-       <img src="/public/images/Img-38.jpg" className="image-item"/>
+       <img src="images/Img-38.jpg" className="image-item"/>
        </Link>
        <Link to="https://www.hyatt.com/en-US/hotel/france/hotel-martinez/jcagh">
-       <img src="/public/images/Img-39.jpg" className="image-item"/>
+       <img src="images/Img-39.jpg" className="image-item"/>
        </Link>
        <Link to="https://www.lagonissiresort.gr/">
-       <img src="/public/images/Img-41.jpg" className="image-item"/>
+       <img src="images/Img-41.jpg" className="image-item"/>
        </Link>
        </div>
        <div className="slider-scrollbar" ref={sliderScrollbarRef}>

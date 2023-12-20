@@ -1,5 +1,5 @@
 import React from 'react'
-import "./common_Userpage.css"
+import "./Common_Userpage.css"
 
 function Common_Userpage() {
   return (
